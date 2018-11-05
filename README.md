@@ -1,3 +1,3 @@
-# ceteris_paribus_paper
+# Ceteris Paribus 
 
 Paper about Ceteris Paribus Profiles
